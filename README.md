@@ -6,7 +6,7 @@ Directly display png files from matplotlib.pyplot outputs to terminal on WSL usi
 
 ## Setup 
 
-Download VcxSrv.
+Download <a href="https://sourceforge.net/projects/vcxsrv/" title="VcXsrv">VcXsrv<a/>
 
 Create symbolic link to xlaunch.exe <strong>in ```x11/```</strong>
 
