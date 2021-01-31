@@ -20,7 +20,7 @@ Run
 
 Make sure the graph is outputted as .png files
 
-```matplotlib.pyplot.savefig("image.png")```
+e.g. ```matplotlib.pyplot.savefig("image.png")```
 
 Result:
 
