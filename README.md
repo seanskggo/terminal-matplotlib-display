@@ -16,9 +16,9 @@ Create symbolic link to xlaunch.exe <strong>in ```x11/```</strong>
 
 Run
 
-```source check example.py```
+```source check file.py```
 
-Make sure the graph is outputted as .png files
+Make sure the graph is outputted as .png files in file.py
 
 e.g. ```matplotlib.pyplot.savefig("image.png")```
 
